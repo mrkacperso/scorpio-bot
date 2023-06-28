@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+# PlatformIO
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio/
+
+# VScode
+.vscode/*  
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
